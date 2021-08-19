@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Dynamic Shadows - v1.0.2",
+	"name": "Amunets Dynamic Shadows - v1.0.3",
 	"description": "[h1]Amunets Dynamic Shadows[/h1]\nThis mod enables dynamic shadows...\n\nSet Shadow Quality to Ultra, then quit Conan Exiles.\nOpen [code]\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\Scalability.ini[/code] and add...\n\n[hr]\n[code]\n[ShadowQuality@3]\nr.Shadow.CachedShadowsCastFromMovablePrimitives=1\n[/code]\n\nThen start Conan Exiles again, and enjoy your shadows - just don't change the shadow quality ingame as this causes shadows to go crazy.\n\nLooks nice, but is pretty hefty performance wise. (at least on my GTX 960)",
-	"changeNote": "2021-01-06 - v1.0.2\n- patch 2.4 update",
+	"changeNote": "2021-08-19 - v1.0.6\n- patch 2.5 update",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 2,
+	"versionBuild": 3,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2338340168",
 	"steamVisibility": 0,
 	"folderName": "AmunetDynamicShadows",
-	"revisionNumber": 287106,
-	"snapshotId": 28960
+	"revisionNumber": 314055,
+	"snapshotId": 30574
 }
