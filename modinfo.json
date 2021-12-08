@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Dynamic Shadows - v1.0.3",
-	"description": "[h1]Amunets Dynamic Shadows[/h1]\nThis mod enables dynamic shadows...\n\nSet Shadow Quality to Ultra, then quit Conan Exiles.\nOpen [code]\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\Scalability.ini[/code] and add...\n\n[hr]\n[code]\n[ShadowQuality@3]\nr.Shadow.CachedShadowsCastFromMovablePrimitives=1\n[/code]\n\nThen start Conan Exiles again, and enjoy your shadows - just don't change the shadow quality ingame as this causes shadows to go crazy.\n\nLooks nice, but is pretty hefty performance wise. (at least on my GTX 960)",
-	"changeNote": "2021-08-19 - v1.0.6\n- patch 2.5 update",
+	"name": "Amunets Dynamic Shadows - v1.0.4",
+	"description": "Mod-ID: 2338340168\n\n[h1]Amunets Dynamic Shadows[/h1]\nThis mod enables dynamic shadows...\n\nSet Shadow Quality to Ultra, then quit Conan Exiles.\nOpen [code]\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\Scalability.ini[/code] and add...\n\n[hr]\n[code]\n[ShadowQuality@3]\nr.Shadow.CachedShadowsCastFromMovablePrimitives=1\n[/code]\n\nThen start Conan Exiles again, and enjoy your shadows - just don't change the shadow quality ingame as this causes shadows to go crazy.\n\nLooks nice, but is pretty hefty performance wise. (at least on my GTX 960)\n\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat\n\nFor MS-Store users - read [url=https://forums.funcom.com/t/for-ms-store-how-to-get-mods-off-the-steam-workshop-without-a-steam-account/174325]this[/url].",
+	"changeNote": "2021-12-08 - v1.0.4\n- patch 2.7 update",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 3,
+	"versionBuild": 4,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2338340168",
 	"steamVisibility": 0,
 	"folderName": "AmunetDynamicShadows",
-	"revisionNumber": 314055,
-	"snapshotId": 30574
+	"revisionNumber": 337372,
+	"snapshotId": 31794
 }
