@@ -1,18 +1,18 @@
 {
-	"name": "Amunets Dynamic Shadows - v1.0.7",
+	"name": "Amunets Dynamic Shadows - v1.0.8",
 	"description": "Mod-ID: 2338340168\n\n[h1]Amunets Dynamic Shadows[/h1]\nThis mod enables dynamic shadows...\n\nSet Shadow Quality to Ultra, then quit Conan Exiles.\nOpen [code]\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\Scalability.ini[/code] and add...\n\n[hr]\n[code]\n[ShadowQuality@3]\nr.Shadow.CachedShadowsCastFromMovablePrimitives=1\n[/code]\n\nThen start Conan Exiles again, and enjoy your shadows - just don't change the shadow quality ingame as this causes shadows to go crazy.\n\nLooks nice, but is pretty hefty performance wise. (at least on my GTX 960)\n\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat\n\nFor MS-Store users - read [url=https://forums.funcom.com/t/for-ms-store-how-to-get-mods-off-the-steam-workshop-without-a-steam-account/174325]this[/url].",
-	"changeNote": "2023-06-22 - Amunets Dynamic Shadows v1.0.7\n- age of war chapter 1",
+	"changeNote": "2023-09-21 - Amunets Dynamic Shadows v1.0.8\n- age of war chapter 2",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 7,
+	"versionBuild": 8,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2338340168",
 	"steamTestLivePublishedFileId": "2856087695",
 	"steamVisibility": 0,
 	"folderName": "AmunetDynamicShadows",
-	"revisionNumber": 507299,
-	"snapshotId": 37516,
+	"revisionNumber": 541658,
+	"snapshotId": 38526,
 	"fileSize": -2
 }
