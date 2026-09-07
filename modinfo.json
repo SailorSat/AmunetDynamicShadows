@@ -1,18 +1,24 @@
 {
-	"name": "Amunets Dynamic Shadows - v1.0.11",
-	"description": "Mod-ID: 2338340168\n\n[h1]Amunets Dynamic Shadows[/h1]\nThis mod enables dynamic shadows...\n\nSet Shadow Quality to Ultra, then quit Conan Exiles.\nOpen [code]\\Conan Exiles\\ConanSandbox\\Saved\\Config\\WindowsNoEditor\\Scalability.ini[/code] and add...\n\n[hr]\n[code]\n[ShadowQuality@3]\nr.Shadow.CachedShadowsCastFromMovablePrimitives=1\n[/code]\n\nThen start Conan Exiles again, and enjoy your shadows - just don't change the shadow quality ingame as this causes shadows to go crazy.\n\nLooks nice, but is pretty hefty performance wise. (at least on my GTX 960)\n\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat\n\nFor MS-Store users - read [url=https://forums.funcom.com/t/for-ms-store-how-to-get-mods-off-the-steam-workshop-without-a-steam-account/174325]this[/url].",
-	"changeNote": "2025-12-09 - Amunets Dynamic Shadows v1.0.11\n- december 2025 patch recook.",
+	"name": "Amunets Dynamic Shadows - v1.1.4",
+	"description": "Mod-ID: 3723355889\r\n\r\n[h1]Amunets Dynamic Shadows[/h1]\r\nThis mod enables dynamic shadows...\r\n\r\nLooks nice! No more bleeding of light through walls :)\r\n\r\nDiscord @ https://discord.gg/a8hGAKW\r\nPatreon @ https://www.patreon.com/sailorsat",
+	"changeNote": "2026-09-07 - Amunets Dynamic Shadows v1.1.4\r\n- ue5 cook 2.1.0",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
-	"versionMinor": 0,
-	"versionBuild": 11,
+	"versionMinor": 1,
+	"versionBuild": 4,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2338340168",
 	"steamTestLivePublishedFileId": "2856087695",
+	"steamWorkshopFileIds":
+	{
+		"mainClient": "3723355889"
+	},
 	"steamVisibility": 0,
 	"folderName": "AmunetDynamicShadows",
-	"revisionNumber": 1755779,
-	"snapshotId": 44630,
-	"fileSize": -2
+	"devkitRevisionNumber": 1001,
+	"devkitSnapshotId": 0,
+	"fileSize": -2,
+	"minimumVersion": "Enhanced",
+	"requestedHttpOrigins": []
 }
