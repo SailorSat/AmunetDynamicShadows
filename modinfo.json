@@ -1,12 +1,12 @@
 {
-	"name": "Amunets Dynamic Shadows - v1.1.4",
+	"name": "Amunets Dynamic Shadows - v1.1.5",
 	"description": "Mod-ID: 3723355889\r\n\r\n[h1]Amunets Dynamic Shadows[/h1]\r\nThis mod enables dynamic shadows...\r\n\r\nLooks nice! No more bleeding of light through walls :)\r\n\r\nDiscord @ https://discord.gg/a8hGAKW\r\nPatreon @ https://www.patreon.com/sailorsat",
-	"changeNote": "2026-09-07 - Amunets Dynamic Shadows v1.1.4\r\n- ue5 cook 2.1.0",
+	"changeNote": "2026-09-15 - Amunets Dynamic Shadows v1.1.5\r\n- ue5 cook 2.2.0",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 4,
+	"versionBuild": 5,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2338340168",
 	"steamTestLivePublishedFileId": "2856087695",
@@ -16,9 +16,8 @@
 	},
 	"steamVisibility": 0,
 	"folderName": "AmunetDynamicShadows",
-	"devkitRevisionNumber": 1001,
+	"devkitRevisionNumber": 1002,
 	"devkitSnapshotId": 0,
-	"fileSize": -2,
 	"minimumVersion": "Enhanced",
 	"requestedHttpOrigins": []
 }
